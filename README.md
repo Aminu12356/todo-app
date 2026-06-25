@@ -2,7 +2,7 @@
 
 A clean, responsive task manager built with vanilla HTML, CSS, and JavaScript. No frameworks, no dependencies — just fast, functional, and good-looking.
 
-**Live Demo:** [your-username.github.io/todo-app](https://your-username.github.io/todo-app)
+**Live Demo:**https://github.com/Aminu12356/todo-app
 
 ---
 
